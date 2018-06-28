@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8336" started-at="2018-06-28T06:09:32Z" finished-at="2018-06-28T06:09:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8336" started-at="2018-06-28T06:09:32Z" finished-at="2018-06-28T06:09:41Z">
+      <class name="test.TestNGTatoc">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.TestNGTatoc@467aecef]" name="beforeTest" is-config="true" duration-ms="4522" started-at="2018-06-28T06:09:32Z" finished-at="2018-06-28T06:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Step_01_LaunchURL()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_01_LaunchURL" duration-ms="437" started-at="2018-06-28T06:09:37Z" finished-at="2018-06-28T06:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_01_LaunchURL -->
+        <test-method status="PASS" signature="Step_02_OpenLink()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_02_OpenLink" duration-ms="161" started-at="2018-06-28T06:09:37Z" finished-at="2018-06-28T06:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_02_OpenLink -->
+        <test-method status="PASS" signature="Step_03_SelectionOfGreenBox()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_03_SelectionOfGreenBox" duration-ms="343" started-at="2018-06-28T06:09:37Z" finished-at="2018-06-28T06:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_03_SelectionOfGreenBox -->
+        <test-method status="PASS" signature="Step_04_BoxColorMatch()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_04_BoxColorMatch" duration-ms="860" started-at="2018-06-28T06:09:38Z" finished-at="2018-06-28T06:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_04_BoxColorMatch -->
+        <test-method status="PASS" signature="Step_05_DragAndDrop()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_05_DragAndDrop" duration-ms="296" started-at="2018-06-28T06:09:39Z" finished-at="2018-06-28T06:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_05_DragAndDrop -->
+        <test-method status="PASS" signature="Step_06_PopUpWindows()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_06_PopUpWindows" duration-ms="1221" started-at="2018-06-28T06:09:39Z" finished-at="2018-06-28T06:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_06_PopUpWindows -->
+        <test-method status="PASS" signature="Step_07_CookieHandling()[pri:0, instance:test.TestNGTatoc@467aecef]" name="Step_07_CookieHandling" duration-ms="431" started-at="2018-06-28T06:09:40Z" finished-at="2018-06-28T06:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step_07_CookieHandling -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.TestNGTatoc@467aecef]" name="afterTest" is-config="true" duration-ms="43" started-at="2018-06-28T06:09:41Z" finished-at="2018-06-28T06:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.TestNGTatoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
